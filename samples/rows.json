@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Café, North",
+    "Code": "0012",
+    "Count": 12,
+    "Active": true
+  },
+  {
+    "Name": "South",
+    "Code": "0034",
+    "Count": 0,
+    "Active": false
+  }
+]

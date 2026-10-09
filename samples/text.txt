@@ -1,0 +1,4 @@
+Folio sample
+A simple text document.
+Unicode: café — Ελληνικά — Привет
+Line three.
